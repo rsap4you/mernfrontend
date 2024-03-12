@@ -1,0 +1,20 @@
+ {
+    id: '8',
+    title: 'Blog App',
+    descStep into the future with RSAP4YOU, where innovation is not just a buzzword but the heartbeat of our existence. Our homepage is a portal to a realm where custom software solutions dance with creativity, and cutting-edge education becomes the catalyst for personal and professional growth. Join us in sculpting a digital masterpiece – RSAP4YOU: Your Gateway to Unleashing Possibilities, Your Home for Innovation and Excellence. ',
+    image: {
+      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671564532/portfolio/projects/Syntho/Screenshot_2022-12-20_at_21.26.17_1_c59hzo.jpg',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://rsa4youblog.netlify.app/',
+      repo: 'https://github.com/rsap4you/react_blog',
+    },
+    technologies: [
+      '#ReactJs',
+     '#NodeJs',
+     '#Javascript',
+     '#Html'
+    ],
+  },
